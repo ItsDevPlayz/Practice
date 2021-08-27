@@ -1,0 +1,20 @@
+img{
+width: 300px;
+border: 3px solid gray;
+padding: 5px;
+}
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+
+h1{
+    font-family: 'Lato', sans-serif;
+}
+
+#Label{
+    font-size: 25px;
+    font-weight: bold;
+    color: midnightblue;
+}
+
